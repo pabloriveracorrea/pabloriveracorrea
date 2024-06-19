@@ -1,21 +1,8 @@
 <div id="header" aling="center">
-  <img src="<iframe
-    src="https://giphy.com/embed/gw3Pz3YQZREedZbG"
-    width="360"
-    height="480"
-    style=""
-    frameborder="0"
-    class="giphy-embed"
-    allowfullscreen
-  ></iframe>
-  <p>
-    <a
-      href="https://giphy.com/gifs/ryanseslow-face-artist-picasso-gw3Pz3YQZREedZbG"
-      >via GIPHY</a
-    >
-  </p>
-  " alt=""> 
+  <img
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VzanFzaTRtdWY2OTZobnRjdnZpNWQyNHZ6bm1kYTB1NHZhdHpkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlnYv1qEw4x0WZvGYe/giphy.webp" width ="300" />
 </div>
+
 
 ## Hi there 👋
 
