@@ -3,7 +3,7 @@
         <h1 align="center">Pablo👋</h1>
     </div>
     <h6 align="center">
-  Soy un diseñador, programador y artista apasionado por la creación de
+  Soy un diseñador, programador y pintor apasionado por la creación de
   experiencias visuales y funcionales. Con una habilidad única para combinar
   creatividad y lógica, transformo ideas en realidades tangibles a través del
   diseño gráfico, el desarrollo de software y el arte visual. Mi trabajo refleja
