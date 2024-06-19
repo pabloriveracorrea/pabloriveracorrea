@@ -1,10 +1,14 @@
 <div id="header" aling="center">
   <img
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VzanFzaTRtdWY2OTZobnRjdnZpNWQyNHZ6bm1kYTB1NHZhdHpkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlnYv1qEw4x0WZvGYe/giphy.webp" width ="300" />
-</div>
+  <h1 align="center"> Hi, I'm Pablo👋 </h1>
+
+  
+
+  
 
 
-## Hi there 👋
+
 
 <!--
 **pabloriveracorrea/pabloriveracorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
