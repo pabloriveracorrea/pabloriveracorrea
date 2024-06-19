@@ -1,5 +1,5 @@
 <div id="header" style="text-align: center;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VzanFzaTRtdWY2OTZobnRjdnZpNWQyNHZ6bm1kYTB1NHZhdHpkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlnYv1qEw4x0WZvGYe/giphy.webp" width="300" />
+        <img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/3.gif" width="1000" />
         <h1 align="center">Pablo👋</h1>
     </div>
     <h6 align="center">
