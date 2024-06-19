@@ -6,8 +6,8 @@
   Soy un diseñador, programador y pintor apasionado por la creación de
   experiencias visuales y funcionales. Con habilidad para combinar
   creatividad y lógica, transformo ideas en realidades tangibles a través del
-  diseño gráfico, el desarrollo de software y el arte visual. Mi trabajo refleja
-  un equilibrio entre estética y funcionalidad, siempre buscando innovar y
+  diseño gráfico, el desarrollo y el arte visual. Mi trabajo refleja
+  equilibrio de estética y funcionalidad, siempre buscando innovar y
   superar expectativas en cada proyecto.
 </h6>
 
