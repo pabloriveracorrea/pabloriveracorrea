@@ -1,5 +1,3 @@
-<iframe src="https://giphy.com/embed/gw3Pz3YQZREedZbG" width="360" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ryanseslow-face-artist-picasso-gw3Pz3YQZREedZbG">via GIPHY</a></p>
-
 ## Hi there 👋
 
 <!--
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
