@@ -13,7 +13,7 @@ Soy un diseñador, programador y pintor apasionado por la creación de
   diseño gráfico, el desarrollo y el arte visual. Mi trabajo refleja
   equilibrio de estética y funcionalidad, siempre buscando innovar y
   superar expectativas en cada proyecto. <br>
-<img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
+
 
 - 🌱 Actualmente me estoy centrando en el estudio de programación y desarrollo.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
