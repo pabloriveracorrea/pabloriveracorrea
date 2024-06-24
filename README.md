@@ -1,10 +1,10 @@
 <div id="header" style="text-align: center;">
         <img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/final4.gif" width="1000" />
   
-<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Pablo Rivera Correa </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
-[![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tanyagupta.pg@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/rivepablo@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:rivepablo@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
 Soy un diseñador, programador y pintor apasionado por la creación de
@@ -23,7 +23,8 @@ Soy un diseñador, programador y pintor apasionado por la creación de
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
+<p align="left"> <img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/html1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/css1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/js1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/wprs.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/ilustrator-1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/adobe-premier-1.png)"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/dfgf.png"/> </p>
+
 
 <br>
 <br>
@@ -60,10 +61,6 @@ Soy un diseñador, programador y pintor apasionado por la creación de
 <br>
 <hr/>
 
-
-
-
----
 
 ------------------------------------------------------------------
 
