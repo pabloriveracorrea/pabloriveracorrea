@@ -23,7 +23,7 @@ Soy un diseñador, programador y pintor apasionado por la creación de
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/html1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/css1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/js1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/wprs.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/ilustrator-1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/adobe-premier-1.png)"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/dfgf.png"/> </p>
+<p align="left"> <img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/html1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/css1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/js1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/wprs.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/ilustrator-1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/adobe-premier-1.png)"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/dfgf.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/ind1-1.png"/> </p>
 
 
 <br>
