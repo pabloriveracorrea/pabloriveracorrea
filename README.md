@@ -7,12 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/rivepablo@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:rivepablo@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
-Soy un diseñador, programador y pintor apasionado por la creación de
-  experiencias visuales y funcionales. Con habilidad para combinar
-  creatividad y lógica, transformo ideas en realidades tangibles a través del
-  diseño gráfico, el desarrollo y el arte visual. Mi trabajo refleja
-  equilibrio de estética y funcionalidad, siempre buscando innovar y
-  superar expectativas en cada proyecto. <br>
+
 
 
 - 🌱 Actualmente me estoy centrando en el estudio de programación y desarrollo.
