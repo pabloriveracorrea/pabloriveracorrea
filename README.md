@@ -15,12 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-- 🌱 Actualmente me estoy centrando en el estudio de programación y desarrollo.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
-<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/html1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/css1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/js1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/wprs.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/ilustrator-1.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/adobe-premier-1.png)"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/dfgf.png"/><img src="https://www.lrcingenieria.com/wp-content/uploads/2024/06/ind1-1.png"/> </p>
