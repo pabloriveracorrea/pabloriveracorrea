@@ -8,6 +8,11 @@
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
 
+document.addEventListener('DOMContentLoaded', () => {
+    const mensajeElemento = document.querySelector('#mensaje');
+    mensajeElemento.textContent = 'Hola, soy Pablo Rivera Correa';
+});
+
 
 
 - 🌱 Actualmente me estoy centrando en el estudio de programación y desarrollo.
