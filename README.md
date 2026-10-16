@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="yngwie-j-malmsteen-trilogy.gif"
+  <img src="dragon-banner-panoramico.gif"
        alt="yngwie-j-malmsteen-trilogy"
        width="100%">
 </p>
