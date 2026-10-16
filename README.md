@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Soluciones de IA en un paisaje cyberpunkretro.png" alt="AI Solutions Builder — Business Automation, CRM and Digital Products" width="100%">
+  <img src="Constructor de soluciones IA retrofuturista.png" alt="AI Solutions Builder — Business Automation, CRM and Digital Products" width="100%">
 </p>
 
 <div align="center">
