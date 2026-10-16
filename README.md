@@ -3,7 +3,7 @@
   <img src="Portafolio Android entre montañas y neón.png" alt="Pablo Rivera Correa - Android, Kotlin y CRM" width="100%">
 </p>
 
-# Pablo Rivera Correa
+
 
 ### Software Developer | Android & Kotlin | CRM & Business Solutions
 
