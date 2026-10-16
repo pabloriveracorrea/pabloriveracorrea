@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner-github.png" alt="Pablo Rivera Correa - Android, Kotlin y CRM" width="100%">
+</p>
 <div align="center">
 
 # Pablo Rivera Correa
