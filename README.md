@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="Portafolio Android entre montañas y neón.png" alt="Pablo Rivera Correa - AI Solutions Builder" width="100%">
+  <img src="Constructor de soluciones IA retrofuturista.png" alt="Pablo Rivera Correa - AI Solutions Builder" width="100%">
 </p>
 
 <div align="center">
