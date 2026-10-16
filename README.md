@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="yngwie-j-malmsteen-trilogy.gif" alt="Animated Banner" width="100%">
+  <img src="yngwie-j-malmsteen-trilogy.gif"
+       alt="yngwie-j-malmsteen-trilogy"
+       width="100%">
 </p>
-
 <div align="center">
 
 # Pablo Rivera Correa
