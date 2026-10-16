@@ -1,57 +1,137 @@
 
+
 <p align="center">
-  <img src="Portafolio Android entre montañas y neón.png" alt="Pablo Rivera Correa - Android, Kotlin y CRM" width="100%">
+  <img src="Portafolio Android entre montañas y neón.png" alt="Pablo Rivera Correa - AI Solutions Builder" width="100%">
 </p>
 
 <div align="center">
 
-### Software Developer | Android & Kotlin | CRM & Business Solutions
+# Pablo Rivera Correa
 
-**Desarrollo de software · Aplicaciones nativas · Soluciones empresariales**
+### AI Solutions Builder | Business Automation | CRM & Digital Products
 
-Diseño y desarrollo soluciones digitales enfocadas en optimizar procesos, facilitar la gestión empresarial y ofrecer experiencias modernas, intuitivas y eficientes.
+**Transformando ideas y problemas reales en soluciones tecnológicas con Inteligencia Artificial.**
 
-Especializado en aplicaciones Android con Kotlin, plataformas CRM personalizadas y desarrollo de software desde entornos macOS.
+![AI Builder](https://img.shields.io/badge/AI-Solutions_Builder-7C3AED?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Business-Automation-2563EB?style=for-the-badge)
+![Digital Products](https://img.shields.io/badge/Digital-Products-0891B2?style=for-the-badge)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil_Profesional-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloriveracorrea)
+**IA aplicada · Construcción de soluciones · Automatización · Transformación digital**
+
+Diseño y construyo soluciones digitales utilizando inteligencia artificial, herramientas de programación y tecnologías modernas para transformar necesidades reales en aplicaciones y sistemas funcionales.
+
+Mi enfoque combina visión de producto, lógica de negocio, desarrollo asistido por IA y mejora continua.
+
+**No se trata solamente de escribir código. Se trata de construir soluciones que funcionen.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloriveracorrea)
 [![Website](https://img.shields.io/badge/LRC_Ingeniería-Sitio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lrcingenieria.com/)
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="giphy.gif" alt="Mortal Cumbia" width="300">
-      </td>
-      <td align="center">
-        <img src="atari-retro.gif" alt="Ninja Golf Atari 7800" width="300">
-      </td>
-    </tr>
-  </table>
 </div>
 
+---
+
+## Sobre mí
+
+Soy un **AI Solutions Builder**, enfocado en convertir necesidades concretas en soluciones tecnológicas mediante inteligencia artificial y herramientas de desarrollo.
+
+Mi trabajo comienza identificando un problema, comprendiendo cómo funciona un proceso y diseñando una solución que pueda construirse, probarse y mejorarse.
+
+Utilizo herramientas de IA como apoyo para desarrollar aplicaciones, estructurar proyectos, analizar código, identificar errores y explorar alternativas técnicas.
+
+Más que centrarme exclusivamente en un lenguaje de programación, busco conectar tres elementos:
+
+**Necesidades reales + Tecnología + Inteligencia Artificial**
+
+Mi objetivo es transformar esa combinación en productos digitales útiles para personas, empresas y organizaciones.
+
+### ¿Qué aporto a un proyecto?
+
+- **Visión de solución:** transformar problemas y necesidades en propuestas tecnológicas concretas.
+- **Análisis de procesos:** comprender cómo funciona un negocio e identificar oportunidades de mejora.
+- **Desarrollo asistido por IA:** aprovechar asistentes de programación para acelerar la construcción de software.
+- **Diseño funcional:** definir módulos, funcionalidades, usuarios, permisos y flujos de trabajo.
+- **Integración tecnológica:** combinar plataformas y herramientas para construir soluciones.
+- **Validación y mejora:** probar resultados, identificar errores y coordinar correcciones.
+- **Enfoque empresarial:** priorizar soluciones útiles y alineadas con objetivos concretos.
 
 ---
 
-## Perfil profesional
-
-Mi trabajo se orienta al diseño, desarrollo e implementación de soluciones tecnológicas adaptadas a necesidades reales.
-
-Combino desarrollo de aplicaciones, arquitectura funcional, automatización y diseño de interfaces para crear herramientas eficientes, escalables y fáciles de utilizar.
-
-**Principales áreas de especialización:**
-
-- **Desarrollo Android nativo:** aplicaciones con Kotlin y Jetpack Compose para dispositivos móviles y televisores.
-- **Desarrollo en macOS:** programación, compilación, pruebas y administración de proyectos.
-- **Sistemas CRM:** plataformas personalizadas para administración comercial, clientes, oportunidades y seguimiento.
-- **Soluciones empresariales:** digitalización de procesos, automatización e integración de herramientas.
-- **Experiencia de usuario:** interfaces modernas, responsivas y navegación intuitiva.
-
----
-
-## Stack tecnológico
+## Mi enfoque: AI-Powered Solution Building
 
 <div align="center">
+
+### DE LA IDEA A UNA SOLUCIÓN FUNCIONAL
+
+**Problema → Análisis → Diseño → Construcción con IA → Pruebas → Mejora**
+
+</div>
+
+La inteligencia artificial está transformando la forma de desarrollar tecnología.
+
+Hoy es posible construir prototipos, automatizaciones y aplicaciones combinando pensamiento lógico, comprensión de procesos, creatividad, conocimientos técnicos y herramientas de IA.
+
+Mi metodología busca aprovechar estas capacidades de manera práctica y responsable.
+
+### Cómo construyo soluciones
+
+**1. Identificar el problema**
+
+Comprender qué necesita una persona o empresa y qué resultado se espera conseguir.
+
+**2. Diseñar la solución**
+
+Definir procesos, módulos, funcionalidades, usuarios, permisos y flujos de información.
+
+**3. Construir con apoyo de IA**
+
+Utilizar asistentes de programación para generar, revisar y mejorar componentes del sistema.
+
+**4. Probar y validar**
+
+Comprobar funcionalidades, identificar errores y revisar aspectos de seguridad, rendimiento y experiencia de usuario.
+
+**5. Mejorar continuamente**
+
+Incorporar correcciones y nuevas capacidades para evolucionar el producto.
+
+> La inteligencia artificial acelera el desarrollo. El criterio humano define qué construir, cómo evaluarlo y cuándo una solución está realmente lista.
+
+---
+
+## Áreas de enfoque
+
+### AI-Assisted Software Development
+
+Construcción de aplicaciones y herramientas digitales mediante desarrollo asistido por inteligencia artificial.
+
+### CRM & Business Management
+
+Diseño de sistemas empresariales para administrar clientes, oportunidades, cotizaciones, actividades e indicadores comerciales.
+
+### Business Process Automation
+
+Digitalización y automatización de tareas, procesos y flujos de información.
+
+### Digital Product Building
+
+Diseño y construcción de productos digitales, desde la definición funcional hasta las pruebas de versiones utilizables.
+
+### Dashboards & Business Intelligence
+
+Desarrollo y aprendizaje de herramientas para visualizar datos, monitorear indicadores y apoyar decisiones.
+
+---
+
+## Tecnologías y herramientas
+
+<div align="center">
+
+### Artificial Intelligence & Development
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Builder](https://img.shields.io/badge/AI-Solutions_Builder-7C3AED?style=for-the-badge)
+![AI Assisted](https://img.shields.io/badge/AI--Assisted-Development-2563EB?style=for-the-badge)
 
 ### Android & Mobile Development
 
@@ -61,12 +141,13 @@ Combino desarrollo de aplicaciones, arquitectura funcional, automatización y di
 ![Android SDK](https://img.shields.io/badge/Android_SDK-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### Business Systems & Development
+### Business Systems & Web Technologies
 
+![CRM](https://img.shields.io/badge/CRM-Business_Solutions-2563EB?style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-Business_Solutions-2563EB?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Development Environment
 
@@ -77,66 +158,172 @@ Combino desarrollo de aplicaciones, arquitectura funcional, automatización y di
 
 </div>
 
+*Tecnologías utilizadas en proyectos propios, exploración y aprendizaje continuo, con distintos niveles de experiencia.*
+
 ---
 
 ## Proyectos destacados
 
-### IPTV-PRC — Native Android Media Player
+### 01 — CRM LRC Ingeniería
 
-**Aplicación multimedia independiente para el ecosistema Android.**
+**Business Management Platform | AI-Assisted Development**
 
-Proyecto desarrollado con Kotlin, Jetpack Compose y Media3, orientado a ofrecer una experiencia adaptable a diferentes dispositivos.
+Sistema CRM empresarial personalizado, orientado a organizar y mejorar procesos de gestión comercial.
 
-**Funciones en desarrollo:**
+El proyecto busca centralizar información, mejorar el seguimiento de oportunidades y proporcionar herramientas de análisis para la administración del negocio.
 
-- Aplicación nativa para Android.
+**Necesidad identificada**
+
+Contar con una plataforma que permita organizar clientes, oportunidades, cotizaciones y actividades comerciales mediante un flujo de trabajo centralizado.
+
+**Solución en desarrollo**
+
+- Gestión de clientes y empresas.
+- Administración de oportunidades comerciales.
+- Cotizaciones y seguimiento.
+- Actividades y tareas.
+- Dashboards e indicadores de gestión.
+- Reportes comerciales.
+- Accesos diferenciados por roles.
+- Control de permisos y protección de información.
+- Automatización de procesos comerciales.
+
+**Mi participación**
+
+- Identificación de necesidades.
+- Diseño funcional del sistema.
+- Definición de módulos y procesos.
+- Coordinación del desarrollo asistido por IA.
+- Evaluación de funcionalidades.
+- Revisión de errores y mejoras.
+- Validación progresiva del producto.
+
+**Tecnologías:** WordPress · PHP · MySQL · JavaScript · AI-Assisted Development
+
+**Estado:** Desarrollo y validación.
+
+**Objetivo:** Construir una herramienta adaptada a necesidades empresariales reales.
+
+---
+
+### 02 — IPTV-PRC
+
+**Android Digital Product | AI-Assisted Development**
+
+Aplicación multimedia independiente para dispositivos Android, desarrollada mediante un proceso de construcción y revisión asistido por inteligencia artificial.
+
+El proyecto está orientado a crear una experiencia de reproducción moderna y adaptable.
+
+**Objetivos funcionales**
+
+- Aplicación Android nativa.
 - Compatibilidad con teléfonos y tablets.
 - Adaptación para Android TV y Google TV.
 - Gestión de fuentes M3U y Xtream Codes.
 - Reproducción multimedia.
 - Interfaz horizontal adaptable.
-- Integración de categorías y guía EPG.
-- Compilación y control de versiones mediante GitHub.
+- Categorías de televisión, películas y series.
+- Guía electrónica de programación (EPG).
+- Gestión de versiones y compilación automatizada.
+
+**Mi participación**
+
+- Conceptualización del producto.
+- Definición de funcionalidades.
+- Diseño de experiencia de usuario.
+- Coordinación de tareas de desarrollo con IA.
+- Pruebas de versiones APK.
+- Identificación de errores.
+- Priorización de correcciones y mejoras.
+
+**Tecnologías:** Android · Kotlin · Jetpack Compose · Media3 · Gradle · GitHub Actions
 
 **Estado:** Desarrollo activo y pruebas de compatibilidad.
 
-*IPTV-PRC es un reproductor independiente. No distribuye canales, contenidos, listas ni suscripciones IPTV.*
+*IPTV-PRC es un reproductor independiente. No distribuye contenidos, canales, listas ni suscripciones IPTV.*
 
 ---
 
-### CRM — Commercial Relationship Management
+### 03 — Digital Solutions & Automation
 
-**Plataformas de gestión empresarial desarrolladas a medida.**
+**Business Solutions | Process Improvement | AI Integration**
 
-Desarrollo de sistemas CRM orientados a centralizar información comercial, optimizar procesos y facilitar el seguimiento de oportunidades de negocio.
+Exploración y construcción de herramientas digitales orientadas a resolver problemas operativos y mejorar procesos.
 
-**Áreas funcionales:**
+**Líneas de trabajo**
 
-- Gestión de clientes y empresas.
-- Administración de oportunidades comerciales.
-- Elaboración y seguimiento de cotizaciones.
-- Actividades y tareas.
-- Dashboards e indicadores de gestión.
-- Reportes comerciales.
-- Administración de usuarios y permisos.
-- Automatización de flujos comerciales.
+- Digitalización de procesos empresariales.
+- Automatización de tareas repetitivas.
+- Integración de herramientas digitales.
+- Sistemas de seguimiento y control.
+- Dashboards e indicadores.
+- Diseño de soluciones personalizadas.
+- Desarrollo de prototipos funcionales.
+- Aplicación práctica de inteligencia artificial.
 
-**Objetivo:** Transformar la información comercial en herramientas útiles para la gestión y la toma de decisiones.
+**Objetivo:** Utilizar tecnología e IA para crear soluciones accesibles, eficientes y orientadas a resultados.
 
 ---
 
-### Digital Solutions & Automation
+## Qué puedo aportar a una empresa
 
-Desarrollo de herramientas empresariales personalizadas que conectan procesos, datos y tecnología.
+Las empresas necesitan herramientas que resuelvan problemas, mejoren procesos y generen valor.
 
-**Áreas de trabajo:**
+Mi enfoque como **AI Solutions Builder** se orienta a colaborar en iniciativas como:
 
-- Digitalización de procesos.
-- Integración de plataformas.
-- Automatización de tareas.
-- Desarrollo de interfaces funcionales.
-- Optimización de flujos de trabajo.
-- Implementación de soluciones escalables.
+| Necesidad empresarial | Solución digital posible |
+|---|---|
+| Información comercial dispersa | CRM personalizado |
+| Procesos manuales repetitivos | Automatización de tareas |
+| Falta de seguimiento comercial | Dashboards y alertas |
+| Datos en planillas aisladas | Herramientas centralizadas |
+| Necesidad de validar nuevas ideas | Prototipos y MVP |
+| Procesos poco eficientes | Digitalización de flujos |
+| Incorporación de inteligencia artificial | Soluciones asistidas por IA |
+
+**El objetivo es pasar de una necesidad a una solución que pueda evaluarse, utilizarse y evolucionar.**
+
+---
+
+## Mi propuesta de valor
+
+<div align="center">
+
+### I DON'T JUST USE AI. I BUILD WITH AI.
+
+**Understand Problems · Design Solutions · Build Products · Improve Processes**
+
+</div>
+
+Me interesa la inteligencia artificial como herramienta para crear.
+
+Utilizar IA no reemplaza el aprendizaje técnico: permite ampliar las posibilidades de construir mientras desarrollo nuevas competencias.
+
+Mi propuesta combina:
+
+**Pensamiento lógico + Comprensión de procesos + Inteligencia artificial + Ejecución**
+
+Busco trabajar en la intersección entre tecnología, negocios e innovación, construyendo soluciones que respondan a necesidades concretas.
+
+---
+
+## Aprendizaje y evolución
+
+La construcción de soluciones con IA requiere aprendizaje continuo.
+
+Actualmente enfoco mi desarrollo de habilidades en:
+
+- Fundamentos de programación y arquitectura de software.
+- Desarrollo Android y Kotlin.
+- Bases de datos y SQL.
+- APIs e integraciones.
+- Automatización de procesos.
+- Power BI y análisis de datos.
+- Seguridad y control de acceso.
+- Pruebas de software y validación funcional.
+- Herramientas de desarrollo asistido por IA.
+
+**Mi objetivo es fortalecer progresivamente mi capacidad de diseñar, construir y supervisar soluciones tecnológicas de manera cada vez más autónoma.**
 
 ---
 
@@ -150,7 +337,7 @@ Desarrollo de herramientas empresariales personalizadas que conectan procesos, d
 
 </div>
 
-*Las estadísticas anteriores dependen de servicios externos y pueden no mostrar toda la actividad de los repositorios privados.*
+*Las estadísticas son generadas por servicios externos y pueden no incluir toda la actividad privada.*
 
 ---
 
@@ -158,40 +345,56 @@ Desarrollo de herramientas empresariales personalizadas que conectan procesos, d
 
 <div align="center">
 
-**Una inspiración de los clásicos que marcaron la historia de los videojuegos.**
+**Inspiración y creatividad: de los videojuegos clásicos a la construcción de productos digitales.**
 
-<img src="atari-retro.gif" alt="Videojuego retro Atari" width="300">
+<table>
+  <tr>
+    <td align="center">
+      <img src="giphy.gif" alt="Mortal Kombat Retro" width="280">
+    </td>
+    <td align="center">
+      <img src="atari-retro.gif" alt="Ninja Golf Atari 7800" width="280">
+    </td>
+  </tr>
+</table>
 
-*Retro gaming · Pixel art · Classic games*
+*Retro Gaming · Pixel Art · Classic Games*
 
 </div>
 
 ---
 
-## Filosofía de desarrollo
+## Filosofía de construcción
 
 <div align="center">
 
-### PLANIFICAR → DISEÑAR → DESARROLLAR → VALIDAR → EVOLUCIONAR
+### IDENTIFICAR → DISEÑAR → CONSTRUIR → VALIDAR → MEJORAR
 
-**Código organizado · Seguridad · Usabilidad · Mejora continua**
+**Soluciones útiles · Inteligencia artificial · Aprendizaje continuo**
 
 </div>
 
-Cada proyecto se aborda con una visión orientada a la funcionalidad, la experiencia del usuario y la evolución del producto.
+Creo en una tecnología orientada a resolver necesidades reales.
 
-El objetivo es desarrollar soluciones digitales confiables, mantenibles y adaptadas a necesidades concretas.
+Cada proyecto representa una oportunidad de aprender, experimentar y convertir ideas en herramientas funcionales.
+
+La inteligencia artificial permite avanzar más rápido, pero la calidad requiere criterio, pruebas, seguridad y responsabilidad.
+
+**Construir es más que programar: es entender un problema y encontrar la manera de resolverlo.**
 
 ---
 
 <div align="center">
 
-### Building Digital Solutions
+### BUILDING SOLUTIONS WITH AI
 
-**Android Native Apps · Kotlin · CRM Platforms · macOS**
+**AI Solutions Builder · Business Automation · CRM · Android Products**
 
-Software Development & Business Technology
+From Ideas to Functional Solutions
 
 **Chile**
 
+[![GitHub](https://img.shields.io/badge/Explore-My_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pabloriveracorrea)
+
 </div>
+
