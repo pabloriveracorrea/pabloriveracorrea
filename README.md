@@ -18,12 +18,12 @@ Especializado en aplicaciones Android con Kotlin, plataformas CRM personalizadas
 
 </div>
 <div align="center">
-  <img src="giphy.gif" alt="mortal cumbia" width="300">
-</div>
-
-<div align="center">
+  <img src="giphy.gif" alt="mortal cumbia" width="300">  <div align="center">
   <img src="atari-retro.gif" alt="Videojuego retro Atari" width="300">
 </div>
+</div>
+
+
 ---
 
 ## Perfil profesional
