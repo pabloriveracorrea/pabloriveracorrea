@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="dragon-banner-panoramico.gif"
-       alt="yngwie-j-malmsteen-trilogy"
+  <img src="karate-champ-retro.gif"
+       alt="karate-champ-retro"
        width="100%">
 </p>
 <div align="center">
