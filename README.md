@@ -1,8 +1,5 @@
-
-
-
 <p align="center">
-  <img src="Constructor de soluciones IA retrofuturista.png" alt="AI Solutions Builder — Business Automation, CRM and Digital Products" width="100%">
+  <img src="yngwie-j-malmsteen-trilogy.gif" alt="Animated Banner" width="100%">
 </p>
 
 <div align="center">
