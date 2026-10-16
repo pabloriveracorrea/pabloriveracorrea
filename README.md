@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="atari-retro.gif" alt="Videojuego retro Atari" width="300">
+</div>
 <p align="center">
   <img src="Portafolio Android entre montañas y neón.png" alt="Pablo Rivera Correa - Android, Kotlin y CRM" width="100%">
 </p>
