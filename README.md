@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="karate-champ-retro.gif"
-       alt="karate-champ-retro"
+  <img src="Michael J Fox Marty GIF by Back to the Future Trilogy.gif"
+       alt="Michael J Fox Marty GIF by Back to the Future Trilogy"
        width="100%">
 </p>
 <div align="center">
