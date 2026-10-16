@@ -3,7 +3,9 @@
   <img src="Portafolio Android entre montañas y neón.png" alt="Pablo Rivera Correa - Android, Kotlin y CRM" width="100%">
 </p>
 
+<div align="center">
 
+<img src="atari-retro.gif" alt="Retro Atari Game" width="280">
 
 ### Software Developer | Android & Kotlin | CRM & Business Solutions
 
@@ -15,6 +17,25 @@ Especializado en proyectos Android con Kotlin, plataformas CRM personalizadas y 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil_profesional-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloriveracorrea)
 [![Website](https://img.shields.io/badge/LRC_Ingeniería-Sitio_web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lrcingenieria.com/)
+
+</div>
+
+---
+
+## Actividad en GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pabloriveracorrea&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pabloriveracorrea&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloriveracorrea&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pabloriveracorrea&theme=github_dark" width="100%" alt="Profile Details" />
 
 </div>
 
@@ -154,12 +175,6 @@ Software Development & Business Technology
 **Chile**
 
 </div>
-
-
-
-
-
-
 
 
 
