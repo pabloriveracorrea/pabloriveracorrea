@@ -1,4 +1,4 @@
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pabloriveracorrea&theme=github-compact&hide_border=true" width="100%" alt="Actividad en GitHub">
 <p align="center">
   <img src="Portafolio Android entre montañas y neón.png" alt="Pablo Rivera Correa - Android, Kotlin y CRM" width="100%">
 </p>
