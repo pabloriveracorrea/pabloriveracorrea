@@ -16,11 +16,18 @@ Especializado en aplicaciones Android con Kotlin, plataformas CRM personalizadas
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil_Profesional-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloriveracorrea)
 [![Website](https://img.shields.io/badge/LRC_Ingeniería-Sitio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lrcingenieria.com/)
 
-</div>
+
 <div align="center">
-  <img src="giphy.gif" alt="mortal cumbia" width="300">  <div align="center">
-  <img src="atari-retro.gif" alt="Videojuego retro Atari" width="300">
-</div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="giphy.gif" alt="Mortal Cumbia" width="300">
+      </td>
+      <td align="center">
+        <img src="atari-retro.gif" alt="Ninja Golf Atari 7800" width="300">
+      </td>
+    </tr>
+  </table>
 </div>
 
 
