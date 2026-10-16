@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="atari-retro.gif" alt="Videojuego retro Atari" width="300">
-</div>
+
 <p align="center">
   <img src="Portafolio Android entre montañas y neón.png" alt="Pablo Rivera Correa - Android, Kotlin y CRM" width="100%">
 </p>
@@ -19,7 +17,9 @@ Especializado en aplicaciones Android con Kotlin, plataformas CRM personalizadas
 [![Website](https://img.shields.io/badge/LRC_Ingeniería-Sitio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lrcingenieria.com/)
 
 </div>
-
+<div align="center">
+  <img src="atari-retro.gif" alt="Videojuego retro Atari" width="300">
+</div>
 ---
 
 ## Perfil profesional
